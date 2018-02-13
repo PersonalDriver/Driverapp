@@ -1,5 +1,5 @@
 # Driverapp
-#This is the open source personal driver app, we aim to develop an open source driver app. So we can esentially cut out the middleman and supply rides from person to person cheap and efficiently. There are several key features we would like to incorporate from third party apps.
+#This is the open source personal driver app, we aim to develop an open source driver app. So we can esentially cut out the middleman and supply rides from person to person cheap and efficiently. THere is no need for a huge corportaion to take all of our profits. They overcharge the customer and pay the drivers pennies. There are several key features we would like to incorporate from third party apps.
 Navagation by waze
 Option to tip immediately after ride ends suggest gratuity of 20%
 5 star rating system for pax and drivers
